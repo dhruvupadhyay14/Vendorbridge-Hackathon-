@@ -227,32 +227,12 @@ Procurement Decision Making
 
 ---
 
-## 📷 Project Screenshots
-
-### Dashboard
-
-<img src="./screenshots/dashboard.png" width="100%" />
-
-### Vendor Management
-
-<img src="./screenshots/vendors.png" width="100%" />
-
-### AI Insights
-
-<img src="./screenshots/ai-insights.png" width="100%" />
-
-### Procurement Analytics
-
-<img src="./screenshots/analytics.png" width="100%" />
-
----
-
 ## 🎥 Demo Video
 
 Add your demo video link here:
 
 ```text
-https://your-demo-link.com
+https://drive.google.com/file/d/17GUG3mUHp3udW0Cs6vGPzUGVZ6ZV2SxU/view?usp=drive_link
 ```
 
 ---
