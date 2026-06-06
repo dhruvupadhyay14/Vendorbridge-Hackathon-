@@ -1,0 +1,6 @@
+{
+  "name": "VendorBridge",
+  "description": "A sophisticated Procurement & Vendor Management ERP featuring role-based workflows, RFQ tracking, multi-vendor quotation comparison, approval queues, custom PO/Invoice generation, audit logs, and advanced analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

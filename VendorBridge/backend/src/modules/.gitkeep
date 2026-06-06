@@ -1,0 +1,15 @@
+# Add business logic modules here
+
+Suggested module structure:
+- auth/
+- vendors/
+- products/
+- orders/
+- invoices/
+- payments/
+- users/
+
+Each module should contain:
+- controller.js
+- service.js
+- validation.js

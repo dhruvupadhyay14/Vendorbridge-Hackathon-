@@ -1,0 +1,5 @@
+# Database helpers
+
+If you want to add database helper functions, create files in this directory.
+
+Example: `query-helpers.js`, `transaction-helpers.js`, etc.
